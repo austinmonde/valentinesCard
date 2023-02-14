@@ -1,0 +1,36 @@
+/* Update the CSS with a red theme */
+body {
+    background-color: #f8d7da; /* a light pinkish red */
+  }
+  
+  .card {
+    border: none;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+    margin-top: 50px;
+    background-color: #dc3545; /* a dark red */
+    text-align: center;
+    color: white; /* to make the text readable on the dark background */
+  }
+  
+  h1, p {
+    color: white;
+  }
+  
+  .card-body {
+    padding: 30px;
+  }
+  
+  h1 {
+    font-size: 48px;
+    margin-bottom: 30px;
+  }
+  
+  p {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  img {
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+  }
